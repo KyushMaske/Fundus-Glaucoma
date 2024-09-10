@@ -2,3 +2,5 @@ resnet_weights.h5
 xception_weights.h5
 .venv
 __pycache__
+full-fundus
+metadata - standardized.csv
