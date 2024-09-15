@@ -5,3 +5,5 @@ seed = 12
 batch_size = 16
 
 [Dataset](https://www.kaggle.com/datasets/deathtrooper/multichannel-glaucoma-benchmark-dataset)
+
+[Youtube](https://www.youtube.com/watch?v=YQOqSrCvNvY)
